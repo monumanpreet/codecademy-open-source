@@ -1,3 +1,3 @@
-#codecademy open source
+# codecademy open source
 
-this is my samole open source repository ! Hooray :)
+this is my sample open source repository ! Hooray :)
